@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Our Bharath Landing Page</h1>
+        <h1>Welcome to Our Bharathrajjsss Landing Page</h1>
         <nav>
             <a href="index.php">Home</a>
             <a href="contact.php">Contact</a>
