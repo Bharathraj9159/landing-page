@@ -17,7 +17,7 @@
 
     <section>
         <h2>Our Services</h2>
-        <p>This is a sample landing page built using PHP </p>
+        <p>This is a sample landing page built using PHP by bharath </p>
         <p>Feel free to explore our demo contact page below.</p>
         <a href="contact.php"><button>Contact Us</button></a>
     </section>
