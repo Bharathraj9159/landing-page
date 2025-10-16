@@ -88,7 +88,7 @@
     <!-- Home Section -->
     <section id="home" class="bg-[url('https://source.unsplash.com/1600x900/?technology')] bg-cover bg-center" data-aos="fade-up">
         <div class="text-center">
-            <h1 class="text-6xl font-bold mb-4">Hello viewvers, I'm <span class="text-cyan-400">Bharathraj R</span></h1>
+            <h1 class="text-6xl font-bold mb-4">Hello viewers, I'm <span class="text-cyan-400">Bharathraj R</span></h1>
             <p class="text-xl mb-6">A Passionate Front-End & Full-Stack Developer</p>
             <a href="#contact" class="btn">Get in Touch</a>
         </div>
